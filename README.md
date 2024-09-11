@@ -5,7 +5,9 @@
 This project involves creating A  3-tier serverless web application hosted on AWS, leveraging various AWS services including S3, API Gateway, Lambda, and DynamoDB. The frontend is hosted on S3, API Gateway serves as the entry point for backend requests, Lambda functions handle the backend logic, and DynamoDB is used for data storage.
 
 # Architecture Diagram
-![image](https://github.com/user-attachments/assets/cef13d7e-32bf-4772-8535-b8b99ba868aa)
+
+![image](https://github.com/user-attachments/assets/901735bd-02e1-40b0-913b-391cd4f8e3f2)
+
 
 ---
 # AWS Services Used
